@@ -4,6 +4,11 @@ Innovative solution for precise cotton leaf
 disease detection, boosting crop health and
 yield for farmers and researchers
 
+Used the concept of Deep Learning and Transfer Learning to Train the model and gain a good acuuracy
+
+Compared Results of vgg19,vgg16 and Resnet152v2
+
+
 
 
 # Screenshots
